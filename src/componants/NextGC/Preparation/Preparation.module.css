@@ -1,0 +1,10 @@
+.Preparation{
+    display: flex;
+    flex-direction: column;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	color: rgb(58,58,58)
+	text-align: justify;
+}
+.Preparation h1{
+    color: var(--theme-color);
+}

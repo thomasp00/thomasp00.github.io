@@ -1,0 +1,48 @@
+.NextGC{
+    padding: 20px;
+    font-size: 18px;
+    text-align: left;
+    align-items: center;
+}
+.Boxes{
+    display: flex;
+}
+.PresentationBox{
+    width: 40%;
+    height: 300px;
+    border: 2px solid black;
+    margin:5%;
+    padding: 10px;
+}
+.AcessBox{
+    width: 40%;
+    height: 300px;
+    margin:5%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    vertical-align: center;
+    align-items: center;
+}
+.AcessBox a {
+    width: 80%;
+    align-items: center;
+    margin: 20px;
+}
+.AcessBox button{
+    background-color: var(--theme-color);
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    align-items: center;
+    width: 100%;
+	border-bottom: 2px grey;
+}
+.AcessBox button:hover{
+    transform: scale(1.05);
+}
+.AcessBox button a{
+    color:white;
+}

@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  --theme-color: rgb(217, 0, 22);
+}
+h1{
+  color:var(--theme-color);
+  text-align: center;
+  margin: 40px;
+}

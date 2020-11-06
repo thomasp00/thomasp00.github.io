@@ -1,0 +1,7 @@
+
+.Homepage{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+	font-style: gras;
+}

@@ -1,0 +1,14 @@
+.Contacts{
+    display: flex;
+    width: 80%;
+
+    border: 2px solid black;
+    flex-direction: column;
+    margin: 10%;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+.Cadre{
+    border: 1px solid black;
+    margin: 7%;
+    padding: 10px;
+}
